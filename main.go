@@ -17,4 +17,6 @@ func main() {
 	fmt.Println(s1)
 	fmt.Println(s2)
 
+	fmt.Println("Working on versions")
+
 }
